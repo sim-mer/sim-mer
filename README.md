@@ -10,9 +10,7 @@
 * SQL Developer
 
 ## :computer: Experience
-* K해커톤 본선 진출
-* 대한민국 SW 공공 해커톤 본선 진출
-* 경북대학교 데이터융복합 해커톤 본선 진출
+* Flash21 인턴
 	
 ## 🔧 Tech Stack 🔧 
 [![sim-mer's github stats](https://github-readme-stats.vercel.app/api?username=sim-mer)](https://github.com/anuraghazra/github-readme-stats)
