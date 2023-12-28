@@ -4,6 +4,8 @@
 * “책임”을 성장의 밑거름으로 삼습니다 .
 * 좋은 개발자가 되고싶습니다.
 
+## Portpolio : https://www.notion.so/Always-wanna-grow-82b67551382f43828e1b1196f2cf05fc?pvs=4
+
 ## :runner: Certificate
 * OPIc IH (- 2025.04.25)
 * SQL Developer
