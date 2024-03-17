@@ -11,6 +11,7 @@
 
 ## :computer: Experience
 * Flash21 인턴
+* GDSC KNU 3기 Member
 	
 ## 🔧 Tech Stack 🔧 
 [![sim-mer's github stats](https://github-readme-stats.vercel.app/api?username=sim-mer)](https://github.com/anuraghazra/github-readme-stats)  
