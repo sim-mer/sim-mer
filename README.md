@@ -11,7 +11,7 @@
 
 ## :computer: Experience
 * Flash21 인턴
-* GDSC KNU 3기 Member
+* GDSC(Google Developer Student Clubs) KNU 3기 Member
 * KAKAO TECH CAMPUS 2기
 	
 ## 🔧 Tech Stack 🔧 
