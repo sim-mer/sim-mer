@@ -12,6 +12,7 @@
 ## :computer: Experience
 * Flash21 인턴
 * GDSC KNU 3기 Member
+* KAKAO TECH CAMPUS 2기
 	
 ## 🔧 Tech Stack 🔧 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
