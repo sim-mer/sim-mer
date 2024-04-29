@@ -12,7 +12,7 @@
 ## :computer: Experience
 * Flash21 인턴
 * GDSC(Google Developer Student Clubs) KNU 3기 Member
-* KAKAO TECH CAMPUS 2기
+* KAKAO TECH CAMPUS 2기 BE
 	
 ## 🔧 Tech Stack 🔧 
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
