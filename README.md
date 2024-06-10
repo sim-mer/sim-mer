@@ -10,7 +10,7 @@
 * SQL Developer
 
 ## :computer: Experience
-* Flash21 인턴
+* 리소프트 현장실습
 * GDSC(Google Developer Student Clubs) KNU 3기 Member
 * KAKAO TECH CAMPUS 2기 BE
 	
