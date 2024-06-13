@@ -1,9 +1,5 @@
 ## :raised_hands: 안녕하세요! 좋은 개발자가 목표인 심규민입니다. :raised_hands:
-* 항상 성장하고 싶다는 마음을 가지고 꾸준히 더 나은 백엔드 개발자가 되기 위해 노력하는 심규민입니다.
-* 항상 “최선”을 위해 노력합니다.
-* “책임”을 성장의 밑거름으로 삼습니다 .
-* 좋은 개발자가 되고싶습니다.
-* [Portfolio](https://sim-mer.notion.site/Always-wanna-grow-82b67551382f43828e1b1196f2cf05fc?pvs=4)
+* [이력서]([https://sim-mer.notion.site/Always-wanna-grow-82b67551382f43828e1b1196f2cf05fc?pvs=4](https://www.rallit.com/resumes/9470@gyu2781/%EC%8B%AC%EA%B7%9C%EB%AF%BC?theme=MINT_SORBET))
 
 ## :runner: Certificate
 * OPIc IH (- 2025.04.25)
