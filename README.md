@@ -1,5 +1,5 @@
 ## :raised_hands: 안녕하세요! 좋은 개발자가 목표인 심규민입니다. :raised_hands:
-* [이력서]([https://sim-mer.notion.site/Always-wanna-grow-82b67551382f43828e1b1196f2cf05fc?pvs=4])
+* [이력서](https://sim-mer.notion.site/Always-wanna-grow-82b67551382f43828e1b1196f2cf05fc?pvs=4)
 
 ## :runner: Certificate
 * OPIc IH (- 2025.04.25)
